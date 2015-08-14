@@ -189,3 +189,10 @@ grunt test:e2e
 
 This will start the webserver and run the tests on Chrome.
 
+******Running Angularjs with nodejs server*****
+ Angular js is great frontend tool for webdeveloper , they can exdent the HTML elements as well as they can make their own custom directive
+Angular js application cab be run using nodejs as a backend server. you have to install the node using the npm and then 
+start the server after registering your app .you can make server.js separate file inside your project directory.inside server.js
+file place the code for express server . express server will register your app and make url call method according you can
+customise .like put,get,delete(crud operation).
+**********************************************************************
